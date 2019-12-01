@@ -10,8 +10,8 @@ shopdata=shop
 shopcollection=products
 
 [flaskmail]
-usermail=appameya@gmail.com
-password=Amanas@619
+usermail=enter emailid
+password=enter password
 
 [genkey]
 key= X-c7nsambd5mxAtxZL-ppB3o0bEzv15OiMDd7ORrd2g=
