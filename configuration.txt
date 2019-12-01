@@ -1,0 +1,23 @@
+[flask]
+secret_key=ssshhh
+
+[db]
+url=localhost
+port=27017
+userdata=user
+usercollection=signup
+shopdata=shop
+shopcollection=products
+
+[flaskmail]
+usermail=appameya@gmail.com
+password=Amanas@619
+
+[genkey]
+key= X-c7nsambd5mxAtxZL-ppB3o0bEzv15OiMDd7ORrd2g=
+
+[paramiko]
+username="Ameya"
+password="ameya"
+ip=0.0.0.0
+time=5
